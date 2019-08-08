@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "viz-js-lib": "latest"
+  }
+}

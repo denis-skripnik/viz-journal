@@ -1,0 +1,8 @@
+{
+"metodist": "login",
+"id": "istr-i52",
+"db_server": "localhost",
+"db_login": "this_db_login",
+"db_password": "this_db_pass",
+"db_name": "journal"
+}
