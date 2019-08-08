@@ -75,7 +75,7 @@ async function processBlock(bn) {
 
 
 
-let bn = 7990557;
+let bn = config.block;
 async function run() {
     const props = await viz.api.getDynamicGlobalPropertiesAsync();
     bn = bn || props.last_irreversible_block_num;
